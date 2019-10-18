@@ -261,7 +261,7 @@ class Generator:
   <title>--=[ Hacked By {0} ]=--</title>
   <meta charset=\"UTF-8\">
   <link rel=\"SHORTCUT ICON\" href=\"{1}\">
-  <meta name=\"Author\" content=\"Cr4sHCoD3 | PureHackers x Blood Security Hackers\"/>
+  <meta name=\"Author\" content=\"alex14324 | PureHackers x Blood Security Hackers\"/>
   <meta name=\"copyright\" content=\"PureHackers | Blood Security Hackers\"/>
   <meta name=\"description\" content=\"{2}.\"/> <!-- Change this -->
   <meta name=\"keywords\" content=\"Hacked, Pawned, Defaced, Security, PureHackers, Blood Security Hackers, PureBlood, Cr4sHCoD3\"/> <!-- Change this -->
@@ -269,7 +269,7 @@ class Generator:
   <meta property=\"og:image\" content=\"{3}\"> <!-- Change this -->
 
   <style>
-  {9} url(\"https://cr4shcod3.github.io/python/pureblood/pureblood.css\");
+  {9} url(\"https://alex14324.github.io/python/pureblood/pureblood.css\");
   </style>
 </head>
 <body>
