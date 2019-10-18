@@ -4,9 +4,6 @@
   <img src="https://raw.githubusercontent.com/cr4shcod3/pureblood/master/imgs/PureBlood%20LOGO.png" alt="PureBlood Material Logo"/>
 </p>
 
-<br>
-
- [![License](https://img.shields.io/badge/Licenese-MIT-blue.svg?longCache=true&style=flat)](https://github.com/cr4shcod3/pureblood/blob/master/LICENSE) [![Compatible](https://img.shields.io/badge/Compatible%20On-Any-yellowgreen.svg?longCache=true&style=flat)](https://en.wikipedia.org/wiki/Operating_system) [![Python2x](https://img.shields.io/badge/Python-2x-brightgreen.svg?longCache=true&style=flat)](https://www.python.org/downloads) [![Python3x](https://img.shields.io/badge/Python-3x-brightgreen.svg?longCache=true&style=flat)](https://www.python.org/downloads)
 
 # Pure Blood v2
 
@@ -60,7 +57,7 @@ This project is managed / enhanced everyday and sorry if it takes a while before
 > Any Python Version.
 
 ```
-$ git clone https://github.com/cr4shcod3/pureblood
+$ git clone https://github.com/alex14324/PureBlood
 $ cd pureblood
 $ pip install -r requirements.txt
 ```
@@ -84,10 +81,7 @@ $ pip install -r requirements.txt
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. You can also suggest a feature, just open an issue.<br>
 You can also:<br>
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/f4a5kJcyl)
 
 ## Authors
-* [Cr4sHCoD3](https://www.facebook.com/cr4shcod3.py) - Pure Blood
+https://github.com/alex14324
 
-## License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit) - see the [LICENSE](https://github.com/cr4shcod3/pureblood/blob/master/LICENSE) file for details
